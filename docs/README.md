@@ -39,7 +39,7 @@ I am a Ph.D. candidate in the School of Humanities at Tsinghua University. My ma
 
   Sept 2022 - 
 
-  **courses**: Probability and Random Mathematics (by Jun Ye, auditing), Natural Language Processing (by Yue Zhang, [online](https://www.zhihu.com/education/video-course/1564218549538607104) auditing), Topics in Chinese Morphology and Syntax (by Dun Deng, A), Research on Corpus Linguistics (by Ying Liu, A)
+  **courses**: Probability and Random Mathematics (by Jun Ye, auditing), Natural Language Processing (by Yue Zhang, [online](https://www.zhihu.com/education/video-course/1564218549538607104) auditing), Topics in Chinese Morphology and Syntax (by Dun Deng, A), Research on Corpus Linguistics (by Ying Liu, A),
 
   **Other interesting courses**: Appreciation of Western Opera (by Yi Ding, auditing), History of Western Music (by Xiao Kang, auditing)
 
