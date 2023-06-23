@@ -8,15 +8,15 @@ profile: /profile.jpg
 socials:
   - title: github
     icon: "/icons/github.svg"
-    link: https://github.com/mtobeiyf
-  - title: linkedin
-    icon: "/icons/linkedin-mono.svg"
-    link: https://www.linkedin.com
-  - title: instagram
-    icon: "/icons/instagram-mono.svg"
-    link: https://www.instagram.com
+    link: https://github.com/RyanLiut
+  # - title: linkedin
+  #   icon: "/icons/linkedin-mono.svg"
+  #   link: https://www.linkedin.com
+  # - title: instagram
+  #   icon: "/icons/instagram-mono.svg"
+  #   link: https://www.instagram.com
 
-cv: https://en.wikipedia.org/wiki/Harry_Potter
+cv: "/resumes/LZ_Resume_EN_20230619.pdf"
 bio: Student at Tsinghua University
 email: liuzhu22 (at) mails (dot) edu (dot) cn
 ---
@@ -30,7 +30,7 @@ I am a Ph.D. candidate in the School of Humanities at Tsinghua University. My ma
 
 ## News
 
-- [May 2023] One paper has been accepted by ACL findings 2023.
+- [May 2023] One paper has been accepted by [ACL findings 2023](https://2023.aclweb.org/).
 
 
 ## Education & Experiences
@@ -39,16 +39,24 @@ I am a Ph.D. candidate in the School of Humanities at Tsinghua University. My ma
 
   Sept 2022 - 
 
-- Southern University of Science and Technology
+  **courses**: Probability and Random Mathematics (by Jun Ye, auditing), Natural Language Processing (by Yue Zhang, [online](https://www.zhihu.com/education/video-course/1564218549538607104) auditing), Topics in Chinese Morphology and Syntax (by Dun Deng, A), Research on Corpus Linguistics (by Ying Liu, A)
+
+  **Other interesting courses**: Appreciation of Western Opera (by Yi Ding, auditing), History of Western Music (by Xiao Kang, auditing)
+
+- **Southern University of Science and Technology**
 
   Sept 2019 - July 2022
 
-- Dalian University of Technology
+  **courses**: Advanced Algorithm (A), Bayesian Data Analysis (A), Machine Learning (A)
+
+  **Other interesting courses**: Translation and Appreciation of Chinese Classical Poetry （by Mengwen Zhu, A), Classics and the Process of Canonization (by Mengwen Zhu, auditing)
+
+- **Dalian University of Technology**
 
   Sept 2015 - July 2019
 
 
-## Papers
+## Publications
 
 [→ Full list](/projects/)
 
@@ -60,13 +68,13 @@ I am a Ph.D. candidate in the School of Humanities at Tsinghua University. My ma
 
 * **Show, Tell and Rephrase: Diverse Video Captioning via Two-Stage Progressive Training**
 
-  TMM 2020
+  TMM 2022
 
-  \[[Paper](https://ieeexplore.ieee.org/document/9999037)] [[CODE](**https://github.com/RyanLiut/STR**)]
+  \[[Paper](https://ieeexplore.ieee.org/document/9999037)] [[CODE](https://github.com/RyanLiut/STR)]
 
-## Awards & Honors
+<!-- ## Awards & Honors
 
-### Contests
+### Contests -->
 
 - 
 

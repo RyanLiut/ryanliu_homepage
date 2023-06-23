@@ -2,31 +2,31 @@
 pageClass: about-page
 description: 'The biography and information about me.'
 avatar: /profile.jpg
-head: 'Harry Potter'
-info: 'Student at Hogwarts School'
-interests: 'Interests: Quidditch and Wizard chess.'
+head: '(Juniper) Zhu Liu'
+info: 'Student at Tsinghua University'
+interests: 'Computational Lexical Semantics, Robust and Trustful AI'
 socials:
 - title: github
-  link: https://github.com/mtobeiyf
-- title: linkedin
-  link: https://www.linkedin.com
-- title: instagram
-  link: https://www.instagram.com
+  link: https://github.com/RyanLiut
+# - title: linkedin
+#   link: https://www.linkedin.com
+# - title: instagram
+#   link: https://www.instagram.com
 - title: email
-  link: 'mailto:harry[at]gmail.com'
+  link: 'liuzhu22@mails.tsinghua.edu.cn'
 actions:
-- text: Projects
+- text: Publications
   link: /projects/
 - text: Blog
-  link: https://github.com/mtobeiyf
+  link: /blog/
 - text: CV
-  link: /article/
+  link: /resumes/LZ_Resume_EN_20230619.pdf
 footer: Made with ♥ by Fing. Powered by VuePress
 ---
 
 <AboutCard :frontmatter="$page.frontmatter" >
 
-I attended [Hogwarts School of Witchcraft and Wizardry](https://en.wikipedia.org/wiki/Hogwarts) to study witchcraft, supervised by **Dumbledore** and other professors. I'm trying my best to battle with Lord Voldemort, the evil Wizard that we all fear. My research area includes Defence Against the Dark Arts and other magic. :dizzy:
+I attended Tsinghua University to pursue my Ph.D., supervised by Ying Liu. My research topic is computational linguistics, which combines natural languages and computer science. One epistemic problem I am trying to figure out is "What does the machine know and does not know"?
 
 </AboutCard>
 
