@@ -20,13 +20,15 @@ actions:
 - text: Blog
   link: /blog/
 - text: CV
-  link: /resumes/LZ_Resume_EN_20230619.pdf
+  link: /resumes/LZ_Resume_EN_20230809.pdf
+- text: 中文简历
+  link: /resumes/LZ_Resume_CN_20230809.pdf
 footer: Made with ♥ by Fing. Powered by VuePress
 ---
 
 <AboutCard :frontmatter="$page.frontmatter" >
 
-I attended Tsinghua University to pursue my Ph.D., supervised by Ying Liu. My research topic is computational linguistics, which combines natural languages and computer science. One epistemic problem I am trying to figure out is "What does the machine know and does not know"?
+I attended Tsinghua University to pursue my Ph.D., supervised by [Ying Liu](https://www.zhongwen.tsinghua.edu.cn/info/1171/1382.htm). My research topic is computational linguistics, which combines natural languages and computer science. One epistemic problem I am trying to figure out is "What does the machine know and does not know"?
 
 </AboutCard>
 

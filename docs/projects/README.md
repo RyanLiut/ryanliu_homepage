@@ -30,7 +30,7 @@ Here are some works of mine :books:
   Word sense disambiguation (WSD), which aims to determine an appropriate sense for a target word given its context, is crucial for natural language understanding. Existing supervised methods treat WSD as a classification task and have achieved remarkable performance. However, they ignore uncertainty estimation (UE) in the real-world setting, where the data is always noisy and out of distribution. This paper extensively studies UE on the benchmark designed for WSD. Specifically, we first compare four uncertainty scores for a state-of-the-art WSD model and verify that the conventional predictive probabilities obtained at the end of the model are inadequate to quantify uncertainty. Then, we examine the capability of capturing data and model uncertainties by the model with the selected UE score on well-designed test scenarios and discover that the model reflects data uncertainty satisfactorily but underestimates model uncertainty. Furthermore, we explore numerous lexical properties that intrinsically affect data uncertainty and provide a detailed analysis of four critical aspects: the syntactic category, morphology, sense granularity, and semantic relations.
   </details>
   
-  [[Paper](https://arxiv.org/abs/2305.13119)] [[CODE](https://github.com/RyanLiut/WSD-UE)]
+  [[Paper](https://aclanthology.org/2023.findings-acl.245/)] [[CODE](https://github.com/RyanLiut/WSD-UE)]
 
 </ProjectCard>
 
