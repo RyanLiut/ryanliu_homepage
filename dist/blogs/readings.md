@@ -1,4 +1,4 @@
-Here are parts of my books, movies, performances, etc I have read or watched in the last half year (2023.01.01-2023.06.19). Although I have habits of recording them after I finished them, I still missed some of the work which I did not write them in time. (Some are so impressive that carved into my heart, though:). For Chinese name, I try my best to translate into English. I give my *personal* staring on each work (one star to five stars)
+Here are parts of my books, movies, performances, etc I have read or watched in the last year. Although I have habits of recording them after I finished them, I still missed some of the work which I did not write them in time. (Some are so impressive that carved into my heart, though:). For Chinese name, I try my best to translate into English. I give my *personal* staring on each work (one star to five stars)
 
 
 
