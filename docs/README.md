@@ -159,11 +159,7 @@ I am a Ph.D. candidate in the School of Humanities at Tsinghua University. My ma
 
 * **Show, Tell and Rephrase: Diverse Video Captioning via Two-Stage Progressive Training**
 
-<<<<<<< HEAD
-  TMM 2020
-=======
   TMM 2022
->>>>>>> remotes/origin/gh-pages
 
   \[[Paper](https://ieeexplore.ieee.org/document/9999037)] [[CODE](https://github.com/RyanLiut/STR)]
 
