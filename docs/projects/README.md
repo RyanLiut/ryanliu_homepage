@@ -18,6 +18,22 @@ Here are some works of mine :books:
 ## Publications
 
 <ProjectCard>
+  **JuniperLiu at CoMeDi Shared Task: Models as Annotators in Lexical Semantics Disagreements**
+
+  `CoMeDi workshop`
+  <details>
+
+  <summary>
+  In this paper, we present the results of our system for the CoMeDi Shared Task, which predicts majority votes (Subtask 1) and annotator disagreements (Subtask 2).
+  </summary>
+  We present the results of our system for the CoMeDi Shared Task, which predicts majority votes (Subtask 1) and annotator disagreements (Subtask 2). Our approach combines model ensemble strategies with MLP-based and threshold-based methods trained on pretrained language models. Treating individual models as virtual annotators, we simulate the annotation process by designing aggregation measures that incorporate continuous relatedness scores and discrete classification labels to capture both majority and disagreement. Additionally, we employ anisotropy removal techniques to enhance performance. Experimental results demonstrate the effectiveness of our methods, particularly for Subtask 2. Notably, we find that standard deviation on continuous relatedness scores among different model manipulations correlates with human disagreement annotations compared to metrics on aggregated discrete labels.
+  </details>
+
+[[Paper](https://arxiv.org/abs/2411.12147)] [[CODE](https://github.com/RyanLiut/CoMeDi_Solution)]
+
+</ProjectCard>
+
+<ProjectCard>
   **A Top-down Graph-based Tool for Modeling Classical Semantic Maps: A Crosslinguistic Case Study of Supplementary Adverbs**
 
   `Arxiv`  `Under Review`

@@ -25,11 +25,17 @@ email: liuzhu22 (at) mails (dot) edu (dot) cn
 
 ## About Me
 
-I am a Ph.D. candidate in the School of Humanities at Tsinghua University. My major is computational linguistics, combining artificial intelligence and natural languages. I am interested in computational lexical semantics (including polysemy, ambiguity and uncertainty) and AI interpretability.
+I am a Ph.D. candidate in the School of Humanities at Tsinghua University. My major is computational linguistics, combining artificial intelligence and natural languages. I am interested in computational lexical semantics (including polysemy, ambiguity and uncertainty) and AI interpretability for LLMs.
 
 
 ## News
-- [December 2024] ACL SRW 2025 is recruiting mentors. Fill out this [form](https://forms.gle/JeH53zDCm1piUtGH8) and more [info](https://acl2025-srw.github.io/mentoring) here.
+- [December 2024] Volunteer applications have been accepted by [COLING 2025](https://coling2025.org/)! See you in Abu Dhabi~
+
+- [December 2024] Two papers to CoMeDi Workshop have been accepted! 
+
+- [December 2024] ACL SRW 2025 is recruiting [mentors]((https://forms.gle/JeH53zDCm1piUtGH8)) and [reviewers]( https://forms.gle/SZVFgniyvZaYQ84k8 ). Refer to more [info](https://acl2025-srw.github.io/mentoring) here.
+
+- [December 2024] I got the feedback from ARR meta (a little bit negative though) and committed it to NAACL 2025.
 
 - [December 2024] I submitted a [thesis proposal](/projects/Thesis_Proposal_v4.pdf) on NAACL SRW 2025. Looking forward to the feedback!
 
@@ -95,7 +101,7 @@ I am a Ph.D. candidate in the School of Humanities at Tsinghua University. My ma
 
   4. Thesis proposal defense for Final Thesis ([Chinese RP](/projects/语言模型中词表征的选取和评估.pdf), [PPT](/projects/刘柱-开题报告PPT.pdf)) [July, 2024]
 
-  5. Research proposal v2 for thesis ([RP](/projects/Thesis_Proposal_v4.pdf)) [December, 2024], which was submitted to NAACL SRW 2025
+  5. Research proposal v2 for thesis ([RP](https://arxiv.org/pdf/2406.00751)) [December, 2024], which was submitted to NAACL SRW 2025
 
 - **Southern University of Science and Technology** (Master)
 
@@ -135,19 +141,34 @@ I am a Ph.D. candidate in the School of Humanities at Tsinghua University. My ma
 
 - Presenter in Sixth Linguistics and Philology Forum, and got first award.
 
+- Volunteer in Coling 2025
+
 ## Publications & Projects
 
 [→ Full list](/projects)
 
-* **How well do distributed representations convey contextual lexical semantics: a Thesis Proposal**
+* **Evaluating Distributed Representations for Multi-Level Lexical Semantics: A Research Proposal**
 
-  Arxiv
+  Arxiv (under review)
 
   [[Paper](https://arxiv.org/abs/2406.00751)]
 
+* **JuniperLiu at CoMeDi Shared Task: Models as Annotators in Lexical Semantics Disagreements**
+
+  CoMeDi workshop in Coling 2025
+
+  [[Paper](https://arxiv.org/abs/2411.12147)] [[CODE](https://github.com/RyanLiut/CoMeDi_Solution)]
+
+
+* **A Top-down Graph-based Tool for Modeling Classical Semantic Maps: A Crosslinguistic Case Study of Supplementary Adverbs**
+
+  Arxiv (under review)
+
+  [[Paper](https://arxiv.org/pdf/2412.01423)] [[CODE](https://github.com/RyanLiut/SemanticMapModel)]
+
 * **Fantastic Semantics and Where to Find Them: Investigating Which Layers of Generative LLMs Reflect Lexical Semantics**
 
-  Findings of ACL 2024
+  Findings of ACL 2024; CoMeDi workshop in Coling 2025 (non-achival)
 
   [[Paper](https://aclanthology.org/2024.findings-acl.866/)]\[[CODE](https://github.com/RyanLiut/LLM_LexSem)\] [[Poster](/projects/poster_24.pdf)] [[PPT](/projects/main_wo_video_24.pdf)]
 
