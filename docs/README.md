@@ -29,6 +29,8 @@ I am a Ph.D. candidate in the School of Humanities at Tsinghua University. My ma
 
 
 ## News
+- [January 2025] I just passed mid-term examination by defensing and submitting a report!  Thank you for the comments from three committee members ([Prof. Mingming Liu](https://markliu02.github.io/), [Prof. Xiaoshi Hu](https://www.dfll.tsinghua.edu.cn/info/1047/2072.htm), [Prof. Ying Liu](https://www.zhongwen.tsinghua.edu.cn/info/1171/1382.htm))!
+
 - [December 2024] Volunteer applications have been accepted by [COLING 2025](https://coling2025.org/)! See you in Abu Dhabi~
 
 - [December 2024] Two papers to CoMeDi Workshop have been accepted! 
@@ -38,6 +40,12 @@ I am a Ph.D. candidate in the School of Humanities at Tsinghua University. My ma
 - [December 2024] I got the feedback from ARR meta (a little bit negative though) and committed it to NAACL 2025.
 
 - [December 2024] I submitted a [thesis proposal](/projects/Thesis_Proposal_v4.pdf) on NAACL SRW 2025. Looking forward to the feedback!
+
+<details>
+<summary>
+Past newss
+
+</summary>
 
 - [November 2024] I attended the Sixth Linguistics and Philology Forum and got the first awards!
 
@@ -79,6 +87,7 @@ I am a Ph.D. candidate in the School of Humanities at Tsinghua University. My ma
 
 - [May 2023] One paper has been accepted by [ACL findings 2023](https://2023.aclweb.org/).
 
+</details>
 
 ## Education
 
@@ -102,6 +111,8 @@ I am a Ph.D. candidate in the School of Humanities at Tsinghua University. My ma
   4. Thesis proposal defense for Final Thesis ([Chinese RP](/projects/语言模型中词表征的选取和评估.pdf), [PPT](/projects/刘柱-开题报告PPT.pdf)) [July, 2024]
 
   5. Research proposal v2 for thesis ([RP](https://arxiv.org/pdf/2406.00751)) [December, 2024], which was submitted to NAACL SRW 2025
+
+  6. Mid-term Examination Report for Final Thesis ([Mid-term Report](https://drive.google.com/file/d/1FwkhVCS0SAlYBr-aQ-qcP9PbtOb0Swn_/view?usp=drive_link), [PPT](https://drive.google.com/file/d/1AHAu_9xZqv0RdtoxMLRm0SRb2M72CgRI/view?usp=drive_link))
 
 - **Southern University of Science and Technology** (Master)
 
