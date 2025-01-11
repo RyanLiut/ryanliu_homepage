@@ -43,7 +43,7 @@ I am a Ph.D. candidate in the School of Humanities at Tsinghua University. My ma
 
 <details>
 <summary>
-Past newss
+Past news
 
 </summary>
 
