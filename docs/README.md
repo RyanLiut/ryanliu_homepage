@@ -29,9 +29,15 @@ I am a Ph.D. candidate in the School of Humanities at Tsinghua University. My ma
 
 
 ## News
+- [Feburary 2025] Two papers submitted to ACL'25 (one is mainly participator)!
+
+- [Feburary 2025] Paper submitted to NAACL main conference has been accepted! Excited~
+
+- [Januray 2025] I just attended COLING'25, which was my second time to attend in-person conference. Great to see an wonderful city and make many friends!
+
 - [January 2025] I just passed mid-term examination by defensing and submitting a report!  Thank you for the comments from three committee members ([Prof. Mingming Liu](https://markliu02.github.io/), [Prof. Xiaoshi Hu](https://www.dfll.tsinghua.edu.cn/info/1047/2072.htm), [Prof. Ying Liu](https://www.zhongwen.tsinghua.edu.cn/info/1171/1382.htm))!
 
-- [December 2024] Volunteer applications have been accepted by [COLING 2025](https://coling2025.org/)! See you in Abu Dhabi~
+- [December 2024] Volunteer applications have been accepted by [COLING 2025](https://coling2025.org/)! See you in Abu Dhabi~ (Update: A really good experience, and things are not complex.)
 
 - [December 2024] Two papers to CoMeDi Workshop have been accepted! 
 
@@ -97,7 +103,7 @@ Past news
 
   **Major** Computational Linguistics
 
-  **courses**: Linguistic typology (by [Rui Guo](https://chinese.pku.edu.cn/szdw/zzjs/ed0c87af48924a658fe3caa4867bc7c8.htm), auditing), Morphology (by [XiuFang Dong](https://chinese.pku.edu.cn/szdw/zzjs/85a8184dfd5b430d898b671a457826c9.htm), auditing), Probability and Random Mathematics (by [Jun Ye](https://www.xyc.tsinghua.edu.cn/info/1107/1806.htm), auditing), Natural Language Processing (by [Yue Zhang](https://frcchang.github.io/), [online](https://www.zhihu.com/education/video-course/1564218549538607104) auditing), Topics in Chinese Morphology and Syntax (by [Dun Deng](https://www.xyc.tsinghua.edu.cn/info/1107/2313.htm), A), Research on Corpus Linguistics (by [Ying Liu](https://www.zhongwen.tsinghua.edu.cn/info/1171/1382.htm), A), Research of Seclected Topics on Chinese Semantics (by [Bing Qiu](https://www.zhongwen.tsinghua.edu.cn/info/1172/1395.htm), A, [Thesis](/projects/汉语词汇专题结题论文.pdf): An Empirical Study on Semantic Relations within Chinese Compound Words based on Word Embeddings)
+  **courses**: A Study on Modern Chinese Grammar (by [Rui Guo](https://chinese.pku.edu.cn/szdw/zzjs/ed0c87af48924a658fe3caa4867bc7c8.htm), auditing), Linguistic typology (by [Rui Guo](https://chinese.pku.edu.cn/szdw/zzjs/ed0c87af48924a658fe3caa4867bc7c8.htm), auditing), Morphology (by [XiuFang Dong](https://chinese.pku.edu.cn/szdw/zzjs/85a8184dfd5b430d898b671a457826c9.htm), auditing), Probability and Random Mathematics (by [Jun Ye](https://www.xyc.tsinghua.edu.cn/info/1107/1806.htm), auditing), Natural Language Processing (by [Yue Zhang](https://frcchang.github.io/), [online](https://www.zhihu.com/education/video-course/1564218549538607104) auditing), Topics in Chinese Morphology and Syntax (by [Dun Deng](https://www.xyc.tsinghua.edu.cn/info/1107/2313.htm), A), Research on Corpus Linguistics (by [Ying Liu](https://www.zhongwen.tsinghua.edu.cn/info/1171/1382.htm), A), Research of Seclected Topics on Chinese Semantics (by [Bing Qiu](https://www.zhongwen.tsinghua.edu.cn/info/1172/1395.htm), A, [Thesis](/projects/汉语词汇专题结题论文.pdf): An Empirical Study on Semantic Relations within Chinese Compound Words based on Word Embeddings)
 
   **Other interesting courses**: Appreciation of Western Opera (by [Yi Ding](https://www.arts.tsinghua.edu.cn/info/1109/1540.htm), auditing), History of Western Music (by [Xiao Kang](https://www.ccmusic.edu.cn/gysz/bssds/ce3ef6d3186e4581903b617c6ff0818d.htm), auditing), Appreciation of Peking Opera (by [Mengmei Zhou](https://baike.sogou.com/v154747423.htm))
 
@@ -113,6 +119,13 @@ Past news
   5. Research proposal v2 for thesis ([RP](https://arxiv.org/pdf/2406.00751)) [December, 2024], which was submitted to NAACL SRW 2025
 
   6. Mid-term Examination Report for Final Thesis ([Mid-term Report](https://drive.google.com/file/d/1FwkhVCS0SAlYBr-aQ-qcP9PbtOb0Swn_/view?usp=drive_link), [PPT](https://drive.google.com/file/d/1AHAu_9xZqv0RdtoxMLRm0SRb2M72CgRI/view?usp=drive_link))
+
+  (I may change my topic into **network analysis on semantic map models**, which is a relatively comprehensive and sustainable project with a long period of history. I listed several of my work on this)
+
+  7. A Top-down Graph-based Tool for Modeling Classical Semantic Maps: A Crosslinguistic Case Study of Supplementary Adverbs ([NAACL 2025](https://arxiv.org/abs/2412.01423)) 
+
+  8. Exploring the Small World of Word Embeddings: A Comparative Study on Conceptual Spaces from LLMs of Different Scales ([In review])
+
 
 - **Southern University of Science and Technology** (Master)
 
@@ -168,7 +181,7 @@ Past news
 
   CoMeDi workshop in Coling 2025
 
-  [[Paper](https://arxiv.org/abs/2411.12147)] [[CODE](https://github.com/RyanLiut/CoMeDi_Solution)]
+  [[Paper](https://coling-2025-proceedings.s3.us-east-1.amazonaws.com/workshops/CoMeDi/pdf/2025.comedi-1.10.pdf)] [[CODE](https://github.com/RyanLiut/CoMeDi_Solution)]
 
 
 * **A Top-down Graph-based Tool for Modeling Classical Semantic Maps: A Crosslinguistic Case Study of Supplementary Adverbs**
