@@ -101,6 +101,30 @@ Here are some books, movies, and performances that I've checked out in the last 
 
       A really insightful book, which is both academical and easy to follow. The author is our director of Chinese Department, who presented a similar topic at oriental lectures. I was attracted then, because it encourages an art of "close reading" (classics). This book gives a more thorough and systematic to this - a return to philology. The author uses his research experience and majors to emphysize that philology really matters although it is overlooked these days when more and more people pursue theory. That is really true and the two categories, philosophy and philology, are widely recognized in many areas. 
 
+15. 《失乐园》 Paradise Lost
+
+      2024 October
+
+      :star: :star: :star: :star: :star:
+
+      Another classic, and also a religious work, by the English poet Milton. It’s based on the story of Adam and Eve and tells how evil deceives Eve into eating the apple from the Tree of Knowledge. Like Homer’s poem, this one is also about a war—epic and musical in its own right!
+
+15. Iliad 《伊利亚特》
+
+      2024 December
+
+      :star: :star: :star: :star: :star:
+
+      I was completely captivated by this classic epic poem by Homer! The tragic tale and the heroes' journeys brought me through a whirlwind of emotions—sorrow, love, jealousy, and even hatred. The characters, the words, the vivid scenes—it's easy to see why it’s called an "epic"! This was my first dive into Western ancient history, and it feels so different from Chinese classical literature like the Shijing. In Homer’s epic, the emotions and motivations of individuals, heroes, and even gods play a central role in the battles. The gods are powerful yet emotional, and they have a way of explaining the fortunes and fates of humans—ones that we can’t always change. (Sometimes I feel braver in certain situations. Maybe a god is pulling the strings behind the scenes? :) ) Overall, the book is musical, vibrant, and all-encompassing, and I’ve gained so much from it!
+
+16. The Art of Loving 《爱的艺术》
+
+      2025 January
+
+      :star: :star: :star: :star: 
+
+      This is both a theoretical and practical book that explores what love is and how to love. Fromm dives deeper into the theory (which reminds me of Hegel's Vorlesungen über die Ästhetik), and he breaks down different types of love. His philosophy draws a distinction between man-like and woman-like traits, suggesting that love is about integrating these two sides. Love, according to Fromm, is an art that must be learned, involving qualities like respect and empathy, as well as the ability to see things from someone else’s perspective. Some of the practical advice he offers is to enjoy the loneliness when we only have ourselves. I think this book, at the very least, has given me a sense of warmth and confidence when it comes to love.
+
 ## Operas
 
 1. Tosca 
@@ -217,6 +241,16 @@ Here are some books, movies, and performances that I've checked out in the last 
 
       :star: :star: :star: :star: 
 
+22. 锁麟囊
+
+      :star: :star: :star: :star: 
+
+23. 莱茵的黄金 Das Rheingold by NCPA
+
+      :star: :star: :star: :star: :star:
+
+      Very beautiful 
+
 ## Symphony
 
 1. Dvořák Symphony No. 8; Night on the Barren Mountain; Siegfried Idyll
@@ -240,6 +274,8 @@ Here are some books, movies, and performances that I've checked out in the last 
    在线
 
    :star: :star: :star: :star: :star:
+
+   You can always be moved by Anton Bruckner's slow movement, and among his well-known works, the third movement of his Symphony No.8 stands out as the most captivating. The strings evoke vast, "grand" images - like the sky, the sea, time, space, infinity, eternity-transporting your mind. The violin, viola and cello represent different height of voice and perfectly form an amazing 3D space. This is really an immerse experience for me.
 
 4. Baroque music
 
@@ -294,6 +330,12 @@ Here are some books, movies, and performances that I've checked out in the last 
    Online
 
    :star: :star: :star: :star:
+
+13. Beethovon's Symphony No. 9 conducted by Karajan
+
+   Online
+
+   :star: :star: :star: :star: :star:
 
 
 
@@ -430,6 +472,36 @@ Here are some books, movies, and performances that I've checked out in the last 
 32. 头脑特工队2
 
       :star: :star: :star: 
+
+33. 落凡尘
+      
+      :star: :star: :star: 
+
+34. 姥姥的外孙
+      
+      :star: :star: 
+
+35. 误杀3
+
+      :star: :star: 
+
+36. 春江水暖
+
+      :star: :star: :star: :star: :star:
+
+37. 里斯本丸沉没
+
+      :star: :star: :star: :star: :star:
+
+      So heavy
+
+38. 杀死紫罗兰
+
+      :star: :star: :star: 
+
+39. 红圈
+
+      :star: 
 
 
 
