@@ -16,7 +16,7 @@ socials:
   #   icon: "/icons/instagram-mono.svg"
   #   link: https://www.instagram.com
 
-cv: "/resumes/LZ_Resume_EN_20250117.pdf"
+cv: "/resumes/LZ_Resume_EN_20250316.pdf"
 bio: Student at Tsinghua University
 email: liuzhu22 (at) mails (dot) edu (dot) cn
 ---
@@ -25,10 +25,14 @@ email: liuzhu22 (at) mails (dot) edu (dot) cn
 
 ## About Me
 
-I am a Ph.D. candidate in the School of Humanities at Tsinghua University. My major is computational linguistics, combining artificial intelligence and natural languages. I am interested in computational lexical semantics (including polysemy, ambiguity and uncertainty) and AI interpretability for LLMs.
+I am a Ph.D. candidate in the School of Humanities at Tsinghua University. My major is computational linguistics, combining artificial intelligence and natural languages. I am interested in computational lexical semantics (including polysemy, ambiguity and uncertainty), semantic map models and AI interpretability for LLMs.
 
 
 ## News
+- [March 2025] I have arrived in Rome, working with Sapienza NLP. Let's have a cup if you are also here!
+
+- [March 2025] A thesis proposal in NAACL SRW 2025 was rejected again. Similar problems of a lack of experiments. Anyway, I thank the anonymous reviewers for the constructive feedback. 
+
 - [Feburary 2025] Two papers submitted to ACL'25 (one is mainly participator)!
 
 - [Feburary 2025] Paper submitted to NAACL main conference has been accepted! Excited~
@@ -146,6 +150,7 @@ Past news
   **Major**: Digital Media Techonology
 
 ## Academic Experiences
+- Exchange Student in [Sapienza NLP](https://nlp.uniroma1.it/), led by Professor [Roberto Navigli](http://www.diag.uniroma1.it/navigli/).
 
 - Research Intern in [THUNLP](https://nlp.csai.tsinghua.edu.cn/), cosupervised by [Maosong Sun](https://scholar.google.com/citations?user=zIgT0HMAAAAJ&hl=en). Reasearch focuses on LLM interpretability and semantic representation.
 
@@ -171,9 +176,15 @@ Past news
 
 [→ Full list](/projects)
 
+* **Exploring the Small World of Word Embeddings: A Comparative Study on Conceptual Spaces from LLMs of Different Scales**
+
+  Arxiv (Under Review)
+
+  [[Paper](https://www.arxiv.org/abs/2502.11380)]
+
 * **Evaluating Distributed Representations for Multi-Level Lexical Semantics: A Research Proposal**
 
-  Arxiv (under review)
+  Arxiv
 
   [[Paper](https://arxiv.org/abs/2406.00751)]
 
@@ -186,7 +197,7 @@ Past news
 
 * **A Top-down Graph-based Tool for Modeling Classical Semantic Maps: A Crosslinguistic Case Study of Supplementary Adverbs**
 
-  Arxiv (under review)
+  NAACL 2025
 
   [[Paper](https://arxiv.org/pdf/2412.01423)] [[CODE](https://github.com/RyanLiut/SemanticMapModel)]
 

@@ -4,7 +4,7 @@ description: 'The biography and information about me.'
 avatar: /profile.jpg
 head: '(Juniper) Zhu Liu'
 info: 'Student at Tsinghua University'
-interests: 'Computational Lexical Semantics, Robust, Transparent and Trustful AI'
+interests: 'Computational Lexical Semantics, Interpretable AI, Semantic Map Models'
 socials:
 - title: github
   link: https://github.com/RyanLiut
@@ -20,9 +20,9 @@ actions:
 - text: Blog
   link: /blog/
 - text: CV
-  link: /resumes/LZ_Resume_EN_20250117.pdf
+  link: /resumes/LZ_Resume_EN_20250316.pdf
 - text: 中文简历
-  link: /resumes/LZ_Resume_CN_20241203.pdf
+  link: /resumes/LZ_Resume_CN_20250316.pdf
 footer: Made with ♥ by Fing. Powered by VuePress
 ---
 
