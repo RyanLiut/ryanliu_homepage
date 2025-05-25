@@ -36,7 +36,7 @@ Here are some works of mine :books:
 <ProjectCard>
   **A Top-down Graph-based Tool for Modeling Classical Semantic Maps: A Crosslinguistic Case Study of Supplementary Adverbs**
 
-  `Arxiv`  `Under Review`
+  `NAACL 2025`
   <details>
 
   <summary>
@@ -45,7 +45,7 @@ Here are some works of mine :books:
   Semantic map models (SMMs) construct a network-like conceptual space from cross-linguistic instances or forms, based on the connectivity hypothesis. This approach has been widely used to represent similarity and entailment relationships in cross-linguistic concept comparisons. However, most SMMs are manually built by human experts using bottom-up procedures, which are often labor-intensive and time-consuming. In this paper, we propose a novel graph-based algorithm that automatically generates conceptual spaces and SMMs in a top-down manner. The algorithm begins by creating a dense graph, which is subsequently pruned into maximum spanning trees, selected according to metrics we propose. These evaluation metrics include both intrinsic and extrinsic measures, considering factors such as network structure and the trade-off between precision and coverage. A case study on cross-linguistic supplementary adverbs demonstrates the effectiveness and efficiency of our model compared to human annotations and other automated methods.
   </details>
 
-[[Paper](https://arxiv.org/abs/2412.01423)] [[PPT in Chinese](/projects/forum-6-pre.pdf)] [[CODE](https://github.com/RyanLiut/SemanticMapModel)]
+[[Paper](https://aclanthology.org/2025.naacl-long.233/)] [[PPT in Chinese](/projects/forum-6-pre.pdf)] [[CODE](https://github.com/RyanLiut/SemanticMapModel)] [[PPT in English](/projects/NAACL_2025_489_pre.pdf)] [[Poster](/projects/NAACL_2025_poster.pdf)]
 
 </ProjectCard>
 

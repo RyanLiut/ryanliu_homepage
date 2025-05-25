@@ -4,3 +4,5 @@
 | 2024.05.29 | [📁 PPT](/blogs/0529CL.pdf)       | Paper sharing on the CL group meeting (Chinese and SRL)|
 | 2024.06.20 | [📁 PPT](/blogs/0619Superposition.pdf)       | Paper sharing on the MI group meeting (Superposition)|
 | 2024.07.01 | [📁 PPT](/projects/刘柱-开题报告PPT.pdf)       | Thesis proposal defense (Selection and Evaluation of Representations from language models)|
+| 2025.03.13 | [📁 PPT](/projects/PS_20250313.pdf)       | Paper sharing about semantic map models in Chinese|
+| 2025.05.06 | [📁 PPT](/projects/PS_20250506.pdf)       | Paper sharing on the CL group meeting|

@@ -29,6 +29,15 @@ I am a Ph.D. candidate in the School of Humanities at Tsinghua University. My ma
 
 
 ## News
+
+- [May 2025] One revised paper has been submitted into ARR May.
+
+- [April 2025] I have attended NAACL 2025 virtually with one poster paper.
+
+- [April 2025] I have organized a discussion group on distributional semantics.
+
+- [March 2025] I reviewed several papers of ACL 2025 (ARR Feb.)
+
 - [March 2025] I have arrived in Rome, working with Sapienza NLP. Let's have a cup if you are also here!
 
 - [March 2025] A thesis proposal in NAACL SRW 2025 was rejected again. Similar problems of a lack of experiments. Anyway, I thank the anonymous reviewers for the constructive feedback. 
@@ -124,11 +133,13 @@ Past news
 
   6. Mid-term Examination Report for Final Thesis ([Mid-term Report](https://drive.google.com/file/d/1FwkhVCS0SAlYBr-aQ-qcP9PbtOb0Swn_/view?usp=drive_link), [PPT](https://drive.google.com/file/d/1AHAu_9xZqv0RdtoxMLRm0SRb2M72CgRI/view?usp=drive_link))
 
-  (I may change my topic into **network analysis on semantic map models**, which is a relatively comprehensive and sustainable project with a long period of history. I listed several of my work on this)
+  (~~I may change my topic into **network analysis on semantic map models**, which is a relatively comprehensive and sustainable project with a long period of history.~~ I listed several of my work on this)
 
   7. A Top-down Graph-based Tool for Modeling Classical Semantic Maps: A Crosslinguistic Case Study of Supplementary Adverbs ([NAACL 2025](https://arxiv.org/abs/2412.01423)) 
 
-  8. Exploring the Small World of Word Embeddings: A Comparative Study on Conceptual Spaces from LLMs of Different Scales ([In review])
+  8. Exploring the Small World of Word Embeddings: A Comparative Study on Conceptual Spaces from LLMs of Different Scales ([~~In review~~])
+     
+     -> From the New World of Word Embeddings: A Comparative Study of Small-World Lexico-Semantic Networks in LLMs [[Newest version](https://arxiv.org/abs/2502.11380)]
 
 
 - **Southern University of Science and Technology** (Master)
@@ -152,6 +163,8 @@ Past news
 ## Academic Experiences
 - Exchange Student in [Sapienza NLP](https://nlp.uniroma1.it/), led by Professor [Roberto Navigli](http://www.diag.uniroma1.it/navigli/).
 
+  March 2025 - August 2025
+
 - Research Intern in [THUNLP](https://nlp.csai.tsinghua.edu.cn/), cosupervised by [Maosong Sun](https://scholar.google.com/citations?user=zIgT0HMAAAAJ&hl=en). Reasearch focuses on LLM interpretability and semantic representation.
 
   October 2023 - 
@@ -160,7 +173,7 @@ Past news
 
 - Reviewer of [Rep4NLP](https://sites.google.com/view/repl4nlp2024) in ACL'24
 
-- Poster presenter in ACL'24
+- Poster [presenter](https://underline.io/lecture/102620-fantastic-semantics-and-where-to-find-them-investigating-which-layers-of-generative-llms-reflect-lexical-semantics) in ACL'24
 
 - Attendee at CCL'24
 
@@ -172,11 +185,17 @@ Past news
 
 - Volunteer in Coling 2025
 
+- Reviewer of [ACL 2025](https://2025.aclweb.org/)
+
+- Poster [presenter](https://underline.io/lecture/117292-a-top-down-graph-based-tool-for-modeling-classical-semantic-maps-a-case-study-of-supplementary-adverbs) in [NAACL 2025](https://2025.naacl.org/)
+
+- Virtual volunteer in NAACL 2025
+
 ## Publications & Projects
 
 [→ Full list](/projects)
 
-* **Exploring the Small World of Word Embeddings: A Comparative Study on Conceptual Spaces from LLMs of Different Scales**
+* **From the New World of Word Embeddings: A Comparative Study of Small-World Lexico-Semantic Networks in LLMs**
 
   Arxiv (Under Review)
 
@@ -199,7 +218,7 @@ Past news
 
   NAACL 2025
 
-  [[Paper](https://arxiv.org/pdf/2412.01423)] [[CODE](https://github.com/RyanLiut/SemanticMapModel)]
+  [[Paper](https://arxiv.org/pdf/2412.01423)] [[CODE](https://github.com/RyanLiut/SemanticMapModel)] [[PPT](/projects/NAACL_2025_489_pre.pdf)] [[Poster](/projects/NAACL_2025_poster.pdf)]
 
 * **Fantastic Semantics and Where to Find Them: Investigating Which Layers of Generative LLMs Reflect Lexical Semantics**
 
@@ -234,7 +253,7 @@ Past news
 
   * **A Top-down Graph-based Tool for Modeling Classical Semantic Maps: A Crosslinguistic Case Study of Supplementary Adverbs**
 
-    At a linguistic seminar, November 30th, 2025. [[PPT in Chinese](/projects/forum-6-pre.pdf)] [[Paper](/projects/forum-6-paper.pdf)] [[CODE](https://github.com/RyanLiut/SemanticMapModel)]
+    At a linguistic seminar, November 30th, 2025. [[PPT in Chinese](/projects/forum-6-pre.pdf)]  [[Paper](/projects/forum-6-paper.pdf)] [[CODE](https://github.com/RyanLiut/SemanticMapModel)]
 
     In this talk, I develop a graph algorithm to construct the semantic map automatically. The tool is available now, and feel free to use it.
 
