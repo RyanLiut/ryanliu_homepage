@@ -16,7 +16,7 @@ socials:
   #   icon: "/icons/instagram-mono.svg"
   #   link: https://www.instagram.com
 
-cv: "/resumes/LZ_Resume_EN_20250316.pdf"
+cv: "/resumes/LZ_Resume_EN_20250528.pdf"
 bio: Student at Tsinghua University
 email: liuzhu22 (at) mails (dot) edu (dot) cn
 ---
