@@ -125,6 +125,22 @@ Here are some books, movies, and performances that I've checked out in the last 
 
       This is both a theoretical and practical book that explores what love is and how to love. Fromm dives deeper into the theory (which reminds me of Hegel's Vorlesungen über die Ästhetik), and he breaks down different types of love. His philosophy draws a distinction between man-like and woman-like traits, suggesting that love is about integrating these two sides. Love, according to Fromm, is an art that must be learned, involving qualities like respect and empathy, as well as the ability to see things from someone else’s perspective. Some of the practical advice he offers is to enjoy the loneliness when we only have ourselves. I think this book, at the very least, has given me a sense of warmth and confidence when it comes to love.
 
+17. The Birth of Tragedy Out of the Spirit of Music
+
+      2025 March April
+
+      :star: :star: :star: :star: :star:
+
+      A philosophical and aesthetic book written by Nietzsche explores two interrelated concepts named by two gods, the Apollonian and the Dionysian. These concepts, perhaps unexpectedly, resemble the yin and yang of traditional Chinese philosophy.
+
+18. The introduction of Buddhism
+
+      2025 April
+
+      :star: :star: :star: :star: :star:
+
+      Really easy to follow.
+
 ## Operas
 
 1. Tosca 
@@ -502,6 +518,18 @@ Here are some books, movies, and performances that I've checked out in the last 
 39. 红圈
 
       :star: 
+
+40. 恋恋风尘 Dust in the Wind
+
+      :star: :star: :star: :star: :star:
+
+41. 风柜来的人 The Boys from FengKuei
+
+      :star: :star: :star: :star: :star:
+
+42. 花样年华 In the Mood for Love
+      
+      :star: :star: :star: :star: :star:
 
 
 
