@@ -16,7 +16,7 @@ socials:
   #   icon: "/icons/instagram-mono.svg"
   #   link: https://www.instagram.com
 
-cv: "/resumes/LZ_Resume_EN_20250528.pdf"
+cv: "/resumes/LZ_Resume_EN_20250708.pdf"
 bio: Student at Tsinghua University
 email: liuzhu22 (at) mails (dot) edu (dot) cn
 ---
@@ -140,6 +140,8 @@ Past news
   8. Exploring the Small World of Word Embeddings: A Comparative Study on Conceptual Spaces from LLMs of Different Scales ([~~In review~~])
      
      -> From the New World of Word Embeddings: A Comparative Study of Small-World Lexico-Semantic Networks in LLMs [[Newest version](https://arxiv.org/abs/2502.11380)]
+
+  9. XISM: an eXploratory and Interactive Graph Tool to Visualize and Evaluate Semantic Map Models [[Tech Report](https://arxiv.org/pdf/2507.04070)]
 
 
 - **Southern University of Science and Technology** (Master)

@@ -6,3 +6,4 @@
 | 2024.07.01 | [📁 PPT](/projects/刘柱-开题报告PPT.pdf)       | Thesis proposal defense (Selection and Evaluation of Representations from language models)|
 | 2025.03.13 | [📁 PPT](/projects/PS_20250313.pdf)       | Paper sharing about semantic map models in Chinese|
 | 2025.05.06 | [📁 PPT](/projects/PS_20250506.pdf)       | Paper sharing on the CL group meeting|
+| 2025.07.28 | [📁 PPT](/blogs/SRW_intro_slides.pdf)       | Brief introduction of ACL 2025 SRW|

@@ -132,6 +132,16 @@ In this project, we have developed an application that automatically generates c
 
 </ProjectCard>
 
+<ProjectCard>
+In this project, we have developed an application to automatically generate semantic map models given form-meaning tables. The maps are created by our proposed top-town approach and can be interactively visualized, including editing, searching, merging, downloading among others. For more details, please refer to this [technical report](https://arxiv.org/pdf/2507.04070).
+
+<div style="text-align:center;">
+<!-- ![Image](/projects/界面.png) -->
+<img src="/projects/system.png" alt="Example Image" width="50%">
+</div>
+
+</ProjectCard>
+
 
 
 <style lang="stylus">

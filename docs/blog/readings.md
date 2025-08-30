@@ -141,6 +141,14 @@ Here are some books, movies, and performances that I've checked out in the last 
 
       Really easy to follow.
 
+19. A little history of philosophy
+
+      2025 May June
+
+      :star: :star: :star: :star: :star:
+
+      Easy to follow and comprehensive. The author listed every famous philosophers diachronically, each in one chapter (except for Kant, who owns two chapters). Each introduction is brief but extracts the core contribution of that philosophers. Not just description, the author also integrates his own view and tries to connect each part by a clue.
+
 ## Operas
 
 1. Tosca 
@@ -199,7 +207,7 @@ Here are some books, movies, and performances that I've checked out in the last 
 
 9. La traviata by Verdi
 
-   古典频道在线 & 课堂
+   古典频道在线 & 课堂 & onsite in Rome
 
    :star: :star: :star: :star: :star:
 
@@ -350,6 +358,12 @@ Here are some books, movies, and performances that I've checked out in the last 
 13. Beethovon's Symphony No. 9 conducted by Karajan
 
    Online
+
+   :star: :star: :star: :star: :star:
+
+14. Symphony No. 1/2 by Gustav Mahler (Conductor: Daniel Harding)
+
+   Onsite in Rome
 
    :star: :star: :star: :star: :star:
 
