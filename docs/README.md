@@ -16,7 +16,7 @@ socials:
   #   icon: "/icons/instagram-mono.svg"
   #   link: https://www.instagram.com
 
-cv: "/resumes/LZ_Resume_EN_20250708.pdf"
+cv: "/resumes/LZ_Resume_EN_20251008.pdf"
 bio: Student at Tsinghua University
 email: liuzhu22 (at) mails (dot) edu (dot) cn
 ---
@@ -29,6 +29,12 @@ I am a Ph.D. candidate in the School of Humanities at Tsinghua University. My ma
 
 
 ## News
+
+<details>
+<summary>
+Past news
+
+</summary>
 
 - [May 2025] One revised paper has been submitted into ARR May.
 
@@ -60,11 +66,7 @@ I am a Ph.D. candidate in the School of Humanities at Tsinghua University. My ma
 
 - [December 2024] I submitted a [thesis proposal](/projects/Thesis_Proposal_v4.pdf) on NAACL SRW 2025. Looking forward to the feedback!
 
-<details>
-<summary>
-Past news
 
-</summary>
 
 - [November 2024] I attended the Sixth Linguistics and Philology Forum and got the first awards!
 
@@ -133,15 +135,8 @@ Past news
 
   6. Mid-term Examination Report for Final Thesis ([Mid-term Report](https://drive.google.com/file/d/1FwkhVCS0SAlYBr-aQ-qcP9PbtOb0Swn_/view?usp=drive_link), [PPT](https://drive.google.com/file/d/1AHAu_9xZqv0RdtoxMLRm0SRb2M72CgRI/view?usp=drive_link))
 
-  (~~I may change my topic into **network analysis on semantic map models**, which is a relatively comprehensive and sustainable project with a long period of history.~~ I listed several of my work on this)
+  7. A one-page [pdf summary](/projects/Work_Overview.pdf) of my first-author papers.
 
-  7. A Top-down Graph-based Tool for Modeling Classical Semantic Maps: A Crosslinguistic Case Study of Supplementary Adverbs ([NAACL 2025](https://arxiv.org/abs/2412.01423)) 
-
-  8. Exploring the Small World of Word Embeddings: A Comparative Study on Conceptual Spaces from LLMs of Different Scales ([~~In review~~])
-     
-     -> From the New World of Word Embeddings: A Comparative Study of Small-World Lexico-Semantic Networks in LLMs [[Newest version](https://arxiv.org/abs/2502.11380)]
-
-  9. XISM: an eXploratory and Interactive Graph Tool to Visualize and Evaluate Semantic Map Models [[Tech Report](https://arxiv.org/pdf/2507.04070)]
 
 
 - **Southern University of Science and Technology** (Master)
