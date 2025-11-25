@@ -17,7 +17,7 @@ Thank you for testing **XSIM**, our application for building semantic map models
    The technical report is still in progress. We will update this section once it is ready.
 
 5. **Video Demo**  
-   The video demonstration is coming soon. Thank you for your patience.
+   The video demonstration can be found [here](https://www.youtube.com/watch?v=S-wsVDF2HSI). Please note that the video is based on an earlier version of the website, although the majority of the functionalities remain the same. We will update the demonstration video soon.
 
 6. **Contact**  
    For any questions, please reach out to us at: **xism2015@gmail.com**
