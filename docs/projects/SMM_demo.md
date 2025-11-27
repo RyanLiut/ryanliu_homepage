@@ -3,7 +3,7 @@
 Thank you for testing **XSIM**, our application for building semantic map models. Please see the following resources:
 
 1. **Access the Website**  
-   Visit our application here: [XSIM Website](https://appositionally-conscionable-jeff.ngrok-free.dev)  
+   Visit our application here: [XSIM Website](https://app.xism2025.xin/)  
    > **Note:** We apologize for the unusual domain name—we haven't purchased a formal domain yet. Rest assured, it is completely *safe*. We also promise **not to store any data without your consent**.
 
 2. **Feedback Survey**  
