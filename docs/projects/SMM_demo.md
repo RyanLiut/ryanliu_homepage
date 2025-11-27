@@ -19,7 +19,7 @@ Thank you for testing **XSIM**, our application for building semantic map models
    The video demonstration can be found [here](https://www.youtube.com/watch?v=S-wsVDF2HSI). Please note that the video is based on an earlier version of the website, although the majority of the functionalities remain the same. We will update the demonstration video soon.
 
 6. **Contact**  
-   For any questions, please reach out to us at: **xism2015@gmail.com**
+   For any questions, please reach out to us at: **xism2015@gmail.com** or **liuzhu22@mails.tsinghua.edu.cn**.
 
 ---
 
@@ -28,21 +28,20 @@ Thank you for testing **XSIM**, our application for building semantic map models
 感谢您测试语义地图建模应用**XSIM**。请参考以下资源：
 
 1. **访问网站**  
-   请通过以下链接访问我们的应用：[XSIM 网站](https://appositionally-conscionable-jeff.ngrok-free.dev)  
-   > **注意：** 由于我们尚未购买正式域名，网址可能显得不太常规，但完全 *安全*。我们承诺 **未经您同意不会存储任何数据**。
+   请通过以下链接访问我们的应用：[XSIM 网站](https://app.xism2025.xin/)  
 
 2. **反馈问卷**  
    使用完应用后，请您填写反馈问卷：[问卷链接](https://v.wjx.cn/vm/Ozhizea.aspx# )  
    > **注意：** 我们仅将您的回答用于科研分析和改进应用，不会用于任何商业目的。
 
 3. **上传数据**  
-   如果您希望分享您的数据，包括形式-功能表格及算法生成的概念空间，请上传至此：[Google Drive 上传链接](https://cloud.tsinghua.edu.cn/d/a258316f267244b3bb9f/)
+   如果您希望分享您的数据，包括形式-功能表格及算法生成的概念空间，请上传至此：[网盘上传链接](https://cloud.tsinghua.edu.cn/d/a258316f267244b3bb9f/)
 
 4. **技术报告**  
    技术报告仍在编写中，完成后会及时更新。
 
 5. **视频演示**  
-   视频演示即将推出，感谢您的耐心等待。
+   该版视频演示暂时放于[Youtube](https://www.youtube.com/watch?v=S-wsVDF2HSI)上，且针对上一版本变化不大的软件，可暂时供参考。更新的展示马上会更新。
 
 6. **联系方式**  
-   如有任何问题，请通过以下邮箱联系我们：**xism2015@gmail.com**
+   如有任何问题，请通过以下邮箱联系我们：**xism2015@gmail.com** 或者 **liuzhu22@mails.tsinghua.edu.cn**
