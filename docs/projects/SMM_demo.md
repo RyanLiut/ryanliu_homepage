@@ -4,7 +4,6 @@ Thank you for testing **XSIM**, our application for building semantic map models
 
 1. **Access the Website**  
    Visit our application here: [XSIM Website](https://app.xism2025.xin/)  
-   > **Note:** We apologize for the unusual domain name—we haven't purchased a formal domain yet. Rest assured, it is completely *safe*. We also promise **not to store any data without your consent**.
 
 2. **Feedback Survey**  
    After using the application, we highly recommend filling out our feedback survey: [Survey Link](https://forms.gle/hZ5dqueTyBAy9C7s5)  
