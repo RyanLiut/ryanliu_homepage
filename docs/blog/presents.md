@@ -1,9 +1,9 @@
 | Time       | Link                             | Note                                     |
 |------------|----------------------------------|------------------------------------------|
 | 2022.03.29 | [📁 PPT](/blogs/20220329CL.pdf)       | Paper sharing on the CL group meeting|
-| 2022.05.17 | [📁 PPT](/blogs/20230517CL.pdf)       | Paper sharing on the CL group meeting|
-| 2022.09.08 | [📁 PPT](/blogs/20230908CL.pdf)       | Paper sharing on the CL group meeting|
-| 2022.12.02 | [📁 PPT](/blogs/20231202CL.pdf)       | Paper sharing on the CL group meeting|
+| 2022.05.17 | [📁 PPT](/blogs/20220517CL.pdf)       | Paper sharing on the CL group meeting|
+| 2022.09.08 | [📁 PPT](/blogs/20220908CL.pdf)       | Paper sharing on the CL group meeting|
+| 2022.12.02 | [📁 PPT](/blogs/20221202CL.pdf)       | Paper sharing on the CL group meeting|
 | 2023.01.06 | [📁 PPT](/blogs/20230106CL.pdf)       | Paper sharing on the CL group meeting|
 | 2023.05.10 | [📁 PPT](/blogs/20230510CL.pdf)       | Paper sharing on the CL group meeting|
 | 2023.10.17 | [📁 PPT](/blogs/20231017CL.pdf)       | Paper sharing on the CL group meeting|
