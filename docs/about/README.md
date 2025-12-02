@@ -20,9 +20,9 @@ actions:
 - text: Blog
   link: /blog/
 - text: CV
-  link: /resumes/LZ_Resume_EN_20251008.pdf
+  link: /resumes/LZ_CV_EN_20251202.pdf
 - text: 中文简历
-  link: /resumes/LZ_Resume_CN_20250805.pdf
+  link: /resumes/LZ_CV_ZH_20251202.pdf
 footer: Made with ♥ by Fing. Powered by VuePress
 ---
 

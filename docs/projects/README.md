@@ -133,7 +133,7 @@ In this project, we have developed an application that automatically generates c
 </ProjectCard>
 
 <ProjectCard>
-In this project, we have developed an application to automatically generate semantic map models given form-meaning tables. The maps are created by our proposed [top-town approach](https://aclanthology.org/2025.naacl-long.233/) and can be interactively visualized, including editing, searching, merging, downloading among others. For more details, please refer to this [technical report](https://arxiv.org/pdf/2507.04070). We also invite typological linguists to help us test this application by referring to the [guidance](/projects/SMM_demo.md).
+In this project, we have developed an application to automatically generate semantic map models given form-meaning tables. The maps are created by our proposed [top-town approach](https://aclanthology.org/2025.naacl-long.233/) and can be interactively visualized, including editing, searching, merging, downloading among others. For more details, please refer to this [technical report](https://arxiv.org/submit/7042424). We also invite typological linguists to help us test this application by referring to the [guidance](/projects/SMM_demo.md).
 
 <div style="text-align:center;">
 <!-- ![Image](/projects/界面.png) -->
