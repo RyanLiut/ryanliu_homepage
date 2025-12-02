@@ -1,9 +1,9 @@
-# Guidance on Evaluating XSIM
+# Guidance on Evaluating XISM
 
-Thank you for testing **XSIM**, our application for building semantic map models. Please see the following resources:
+Thank you for testing **XISM**, our application for building semantic map models. Please see the following resources:
 
 1. **Access the Website**  
-   Visit our application here: [XSIM Website](https://app.xism2025.xin/)  
+   Visit our application here: [XISM Website](https://app.xism2025.xin/)  
 
 2. **Feedback Survey**  
    After using the application, we highly recommend filling out our feedback survey: [Survey Link](https://forms.gle/hZ5dqueTyBAy9C7s5)  
@@ -16,19 +16,19 @@ Thank you for testing **XSIM**, our application for building semantic map models
    The technical report is still in progress. We will update this section once it is ready.
 
 5. **Video Demo**  
-   The video demonstration can be found [here](https://www.youtube.com/watch?v=S-wsVDF2HSI). Please note that the video is based on an earlier version of the website, although the majority of the functionalities remain the same. We will update the demonstration video soon.
+   The video demonstration can be found [here](https://youtu.be/m5laLhGn6Ys).
 
 6. **Contact**  
    For any questions, please reach out to us at: **xism2015@gmail.com** or **liuzhu22@mails.tsinghua.edu.cn**.
 
 ---
 
-# XSIM 使用指南（中文）
+# XISM 使用指南（中文）
 
-感谢您测试语义地图建模应用**XSIM**。请参考以下资源：
+感谢您测试语义地图建模应用**XISM**。请参考以下资源：
 
 1. **访问网站**  
-   请通过以下链接访问我们的应用：[XSIM 网站](https://app.xism2025.xin/)  
+   请通过以下链接访问我们的应用：[XISM 网站](https://app.xism2025.xin/)  
 
 2. **反馈问卷**  
    使用完应用后，请您填写反馈问卷：[问卷链接](https://v.wjx.cn/vm/Ozhizea.aspx# )  
@@ -41,7 +41,7 @@ Thank you for testing **XSIM**, our application for building semantic map models
    技术报告仍在编写中，完成后会及时更新。
 
 5. **视频演示**  
-   该版视频演示暂时放于[Youtube](https://www.youtube.com/watch?v=S-wsVDF2HSI)上，且针对上一版本变化不大的软件，可暂时供参考。更新的展示马上会更新。
+   该版视频演示请访问[Youtube](https://youtu.be/m5laLhGn6Ys)。
 
 6. **联系方式**  
    如有任何问题，请通过以下邮箱联系我们：**xism2015@gmail.com** 或者 **liuzhu22@mails.tsinghua.edu.cn**
