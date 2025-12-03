@@ -30,7 +30,7 @@ I am a Ph.D. candidate in the School of Humanities at Tsinghua University. My ma
 
 ## News
 
-- [December 2025] One [demo paper](https://arxiv.org/submit/7042424) has been submitted to [EACL demo track](https://2026.eacl.org/calls/demos/).
+- [December 2025] One [demo paper](https://arxiv.org/pdf/2507.04070) has been submitted to [EACL demo track](https://2026.eacl.org/calls/demos/).
 
 <details>
 
@@ -200,7 +200,7 @@ Past news
 
   Arxiv (Under Review)
 
-  [[Paper](https://arxiv.org/submit/7042424)] [[Website](https://app.xism2025.xin/)] [[video](youtube.com/watch?v=m5laLhGn6Ys&feature=youtu.be)]
+  [[Paper](https://arxiv.org/pdf/2507.04070)] [[Website](https://app.xism2025.xin/)] [[video](youtube.com/watch?v=m5laLhGn6Ys&feature=youtu.be)]
 
 * **From the New World of Word Embeddings: A Comparative Study of Small-World Lexico-Semantic Networks in LLMs**
 
