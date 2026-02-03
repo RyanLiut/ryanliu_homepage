@@ -3,7 +3,7 @@
 Thank you for testing **XISM**, our application for building semantic map models. Please see the following resources:
 
 1. **Access the Website**  
-   Visit our application here: [XISM Website](https://app.xism2025.xin/)  
+   Visit our application here: [XISM Website](https://app.xism2025.xin/). Please click the help button to get more detailed guidance. 
 
 2. **Feedback Survey**  
    After using the application, we highly recommend filling out our feedback survey: [Survey Link](https://forms.gle/hZ5dqueTyBAy9C7s5)  
@@ -28,7 +28,7 @@ Thank you for testing **XISM**, our application for building semantic map models
 感谢您测试语义地图建模应用**XISM**。请参考以下资源：
 
 1. **访问网站**  
-   请通过以下链接访问我们的应用：[XISM 网站](https://app.xism2025.xin/)  
+   请通过以下链接访问我们的应用：[XISM 网站](https://app.xism2025.xin/)，点击网站旁边的帮助按钮可以获取更加详细地介绍。  
 
 2. **反馈问卷**  
    使用完应用后，请您填写反馈问卷：[问卷链接](https://v.wjx.cn/vm/Ozhizea.aspx# )  

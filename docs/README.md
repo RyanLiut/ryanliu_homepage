@@ -25,10 +25,15 @@ email: liuzhu22 (at) mails (dot) edu (dot) cn
 
 ## About Me
 
-I am a Ph.D. candidate in the School of Humanities at Tsinghua University. My major is computational linguistics, combining artificial intelligence and natural languages. I am interested in computational lexical semantics (including polysemy, ambiguity and uncertainty), semantic map models and AI interpretability for LLMs.
+I am a Ph.D. candidate in the School of Humanities at Tsinghua University. My major is computational linguistics, combining artificial intelligence and natural languages. I am interested in computational lexical semantics (including polysemy, ambiguity and uncertainty), semantic map models (a methodology in linguistic typology) and interpretability for LLMs.
 
 
 ## News
+- [Januray 2026] I just finished my final course of my student career:/ Mixed feelings..
+
+- [January 2026] Two papers in EACL SRW 2026 are reviewed.
+
+- [January 2026] I just passed my thesis pre-defense.
 
 - [December 2025] One [demo paper](https://arxiv.org/pdf/2507.04070) has been submitted to [EACL demo track](https://2026.eacl.org/calls/demos/).
 
@@ -121,7 +126,7 @@ Past news
 
   **Major** Computational Linguistics
 
-  **courses**: Formal Semantics (by [Prof. Mingming Liu](https://www.dfll.tsinghua.edu.cn/info/1052/2050.htm), [Reading response Appendix](/projects/res_appendix.pdf)), A Study on Modern Chinese Grammar (by [Rui Guo](https://chinese.pku.edu.cn/szdw/zzjs/ed0c87af48924a658fe3caa4867bc7c8.htm), auditing), Linguistic typology (by [Rui Guo](https://chinese.pku.edu.cn/szdw/zzjs/ed0c87af48924a658fe3caa4867bc7c8.htm), auditing), Morphology (by [XiuFang Dong](https://chinese.pku.edu.cn/szdw/zzjs/85a8184dfd5b430d898b671a457826c9.htm), auditing), Probability and Random Mathematics (by [Jun Ye](https://www.xyc.tsinghua.edu.cn/info/1107/1806.htm), auditing), Natural Language Processing (by [Yue Zhang](https://frcchang.github.io/), [online](https://www.zhihu.com/education/video-course/1564218549538607104) auditing), Topics in Chinese Morphology and Syntax (by [Dun Deng](https://www.xyc.tsinghua.edu.cn/info/1107/2313.htm), A), Research on Corpus Linguistics (by [Ying Liu](https://www.zhongwen.tsinghua.edu.cn/info/1171/1382.htm), A), Research of Seclected Topics on Chinese Semantics (by [Bing Qiu](https://www.zhongwen.tsinghua.edu.cn/info/1172/1395.htm), A, [Thesis](/projects/汉语词汇专题结题论文.pdf): An Empirical Study on Semantic Relations within Chinese Compound Words based on Word Embeddings)
+  **courses**: Formal Semantics (by [Prof. Mingming Liu](https://www.dfll.tsinghua.edu.cn/info/1052/2050.htm), [Reading response](/projects/res_reading.pdf), [Reading response Appendix](/projects/res_appendix.pdf)), A Study on Modern Chinese Grammar (by [Rui Guo](https://chinese.pku.edu.cn/szdw/zzjs/ed0c87af48924a658fe3caa4867bc7c8.htm), auditing), Linguistic typology (by [Rui Guo](https://chinese.pku.edu.cn/szdw/zzjs/ed0c87af48924a658fe3caa4867bc7c8.htm), auditing), Morphology (by [XiuFang Dong](https://chinese.pku.edu.cn/szdw/zzjs/85a8184dfd5b430d898b671a457826c9.htm), auditing), Probability and Random Mathematics (by [Jun Ye](https://www.xyc.tsinghua.edu.cn/info/1107/1806.htm), auditing), Natural Language Processing (by [Yue Zhang](https://frcchang.github.io/), [online](https://www.zhihu.com/education/video-course/1564218549538607104) auditing), Topics in Chinese Morphology and Syntax (by [Dun Deng](https://www.xyc.tsinghua.edu.cn/info/1107/2313.htm), A), Research on Corpus Linguistics (by [Ying Liu](https://www.zhongwen.tsinghua.edu.cn/info/1171/1382.htm), A), Research of Seclected Topics on Chinese Semantics (by [Bing Qiu](https://www.zhongwen.tsinghua.edu.cn/info/1172/1395.htm), A, [Thesis](/projects/汉语词汇专题结题论文.pdf): An Empirical Study on Semantic Relations within Chinese Compound Words based on Word Embeddings)
 
   **Other interesting courses**: Appreciation of Western Opera (by [Yi Ding](https://www.arts.tsinghua.edu.cn/info/1109/1540.htm), auditing), History of Western Music (by [Xiao Kang](https://www.ccmusic.edu.cn/gysz/bssds/ce3ef6d3186e4581903b617c6ff0818d.htm), auditing), Appreciation of Peking Opera (by [Mengmei Zhou](https://baike.sogou.com/v154747423.htm))
 
@@ -141,6 +146,8 @@ Past news
   7. A one-page [pdf summary](/projects/Work_Overview.pdf) of my first-author papers.
 
   8. A long version [pdf summary](/projects/Work_Overview_Long.pdf) of my first-author papers.
+
+  9. Pre-defense draft.
 
 
 - **Southern University of Science and Technology** (Master)
@@ -191,6 +198,8 @@ Past news
 - Poster [presenter](https://underline.io/lecture/117292-a-top-down-graph-based-tool-for-modeling-classical-semantic-maps-a-case-study-of-supplementary-adverbs) in [NAACL 2025](https://2025.naacl.org/)
 
 - Virtual volunteer in NAACL 2025
+
+- Reviewer of [EACL SRW 2026](https://2026.eacl.org/calls/srw/)
 
 ## Publications & Projects
 

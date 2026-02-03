@@ -491,7 +491,7 @@ Here are some books, movies, and performances that I've checked out in the last 
 
       :star: :star: :star: :star: :star:
 
-      With Dr. Dai! Really insightful. A topic about the impossibility of communication and undertandings.
+      Really insightful. A topic about the impossibility of communication and undertandings.
 
 31. 哈尔的移动城堡
 
@@ -543,6 +543,10 @@ Here are some books, movies, and performances that I've checked out in the last 
 
 42. 花样年华 In the Mood for Love
       
+      :star: :star: :star: :star: :star:
+
+43. 山河故人 Maintains May Depart
+
       :star: :star: :star: :star: :star:
 
 
