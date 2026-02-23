@@ -25,7 +25,8 @@ Thank you for testing **XISM**, our application for building semantic map models
 
 # XISM 使用指南（中文）
 
-感谢您测试语义地图建模应用**XISM**。请参考以下资源：
+感谢您测试语义地图建模应用**XISM**。语义地图旨在通过多语言数据中形式的多功能（意义）对应关系，使用网络的形式来反映意义结点之间的关联性，这些关联往往也体现了意义之间的演变路径。
+请参考以下资源：
 
 1. **访问网站**  
    请通过以下链接访问我们的应用：[XISM 网站](https://app.xism2025.xin/)，点击网站旁边的帮助按钮可以获取更加详细地介绍。  
@@ -41,7 +42,7 @@ Thank you for testing **XISM**, our application for building semantic map models
    技术报告仍在编写中，完成后会及时更新。
 
 5. **视频演示**  
-   该版视频演示请访问[Youtube](https://youtu.be/m5laLhGn6Ys)。
+   该版视频演示请访问[B站](https://www.bilibili.com/video/BV1EgSsB4EdX/?share_source=copy_web&vd_source=7d039b395a43080ab57230a99f5a20d6)。
 
 6. **联系方式**  
-   如有任何问题，请通过以下邮箱联系我们：**xism2015@gmail.com** 或者 **liuzhu22@mails.tsinghua.edu.cn**
+   如有任何问题，请通过以下邮箱联系我们： **liuzhu22@mails.tsinghua.edu.cn**

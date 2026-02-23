@@ -37,6 +37,8 @@ Here are some books, movies, and performances that I've checked out in the last 
 
    [Update] One biography of General Li makes me tear a lot. He, his grandson Ling Li, and the author Dr Sima, what tragic heros they are!
 
+   [Update] After finishing reading No.7,8,9, I began to read the book from No.1 in October 2025. Starting with the distant dynasties of Xia, Shang, Zhou and the Great Emperors of Yao, Shun, Yu, the No.1 book illustrates the root of our history! 
+
    
 5. 《管锥篇》 钱钟书    Notes on Chinese classic literatures     (unfinished)
 
@@ -148,6 +150,28 @@ Here are some books, movies, and performances that I've checked out in the last 
       :star: :star: :star: :star: :star:
 
       Easy to follow and comprehensive. The author listed every famous philosophers diachronically, each in one chapter (except for Kant, who owns two chapters). Each introduction is brief but extracts the core contribution of that philosophers. Not just description, the author also integrates his own view and tries to connect each part by a clue.
+
+20. 存在与时间 Being and Time
+
+      2025 November December 2026 January Feburary
+
+      :star: :star: :star: :star: 
+
+      Unfinished reading... The (translated) book is not that easy to follow. Things become complicated when coming to the theory of existence but familiar from the view of the subject of existence, that is us. Some ideas and concepts remind me of Buddhism and Zen.
+
+21. 沉思录 Meditations
+
+      2025 September
+
+      :star: :star: :star: :star: :star:
+
+      A thin philosophical book written by an emperor in Ancient Rome. It contains many insightful passages and is deeply rooted in Stoicism. I enjoyed it very much.
+
+22. From Mozart to Beethoven
+
+      2025 December
+
+      :star: :star: :star: :star: :star:
 
 ## Operas
 
@@ -275,6 +299,18 @@ Here are some books, movies, and performances that I've checked out in the last 
 
       Very beautiful 
 
+24. 教我如何不想他
+
+      :star: :star: :star: :star: 
+
+25. 霸王别姬
+
+      :star: :star: :star: :star: :star:
+
+26. 贵妃醉酒
+
+      :star: :star: :star: :star: :star:
+
 ## Symphony
 
 1. Dvořák Symphony No. 8; Night on the Barren Mountain; Siegfried Idyll
@@ -357,7 +393,7 @@ Here are some books, movies, and performances that I've checked out in the last 
 
 13. Beethovon's Symphony No. 9 conducted by Karajan
 
-   Online
+   Online / Onsite in Beijing
 
    :star: :star: :star: :star: :star:
 
@@ -367,6 +403,23 @@ Here are some books, movies, and performances that I've checked out in the last 
 
    :star: :star: :star: :star: :star:
 
+15. 悲喜同源
+
+    Online
+
+    :star: :star: :star: :star: :star:
+
+16. Antigone by Mendelssohn
+
+    Onsite
+
+    :star: :star: :star: :star: :star:
+
+17. Scenes from Goethe's Faust by Robert Schumann
+
+    Onsite
+
+    :star: :star: :star: :star: :star:
 
 
 ## Movies
@@ -542,12 +595,72 @@ Here are some books, movies, and performances that I've checked out in the last 
       :star: :star: :star: :star: :star:
 
 42. 花样年华 In the Mood for Love
+
+      One of my other favourate movies of 2025. I was impressed by the delicate emotional world of its main characters. Their feelings are so restrained, so quietly hidden beneath the surface. A style of the director Wong Kai-wai and also vey Chinese.
       
       :star: :star: :star: :star: :star:
 
 43. 山河故人 Maintains May Depart
 
+      One of my favourate movies of 2025 which first premiered in 2015. The three stories with different characters about growth, departure, loss and acceptance, as time goes by. The ancient buildings in the movie deeply move me. They seem to gaze eternally at the people who pass through it, witnessing their lives without judgment. A certain sense of sacredness and compassion arises subconsciously in my heart. The Disco music, the guitar melodies, the key, the transportation such as trains, the multiple ordinary people, these images keep reappearing throughout the film, again and again.
+
       :star: :star: :star: :star: :star:
+
+44. 爱的暂停键 Elskling
+
+      :star: :star: :star:
+
+45. 家庭简史 Brief History of a Family
+
+      :star: :star: :star: :star: 
+
+46. 旺角卡门 As tears go by
+
+      :star: :star: :star: :star: :star: 
+
+47. 侧耳倾听 Whisper of the Heart 
+
+      :star: :star: :star: :star: :star: 
+
+48. 往日情怀  The Way We Were
+
+      I still remember the last scene of the main woman character sending the anti-war sheets!
+
+      :star: :star: :star: :star: :star:
+
+49. 雾中风景 Landscape in the Mist
+
+      :star: :star: :star: :star: 
+
+50. 陪你到清晨
+
+      :star: :star: :star: :star: 
+
+51. 天涯沦落女 Without Roof or Law
+
+      :star: :star: :star: :star:
+
+52. 狂野时代 Resurrection
+
+      :star: :star: :star: 
+
+53. 阿凡达（三） Avatar: Fire and Ash
+
+      :star: :star: :star: :star: :star:
+
+54. 机器人之梦 Roberto Dream
+
+      :star: :star: :star: :star: :star:
+
+55. 隐者山河 Hidden Landscapes
+
+      :star: :star: :star: :star: :star:
+
+56. 铁皮鼓 Die Blechtrommel
+
+      :star: :star: :star: :star: :star:
+
+
 
 
 
