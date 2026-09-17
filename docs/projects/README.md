@@ -49,6 +49,14 @@ Here are some works of mine :books:
 
 </ProjectCard>
 
+<ProjectCard> 基于自上而下图论算法的语义地图自动构建与评估——以“重复义副词”语义地图为例
+
+`《清华语言学》2026年第1期`
+<summary> 
+A Chinese translation of the SMM algorithm proposed in NAACL 2025, with an extension of case analysis. </summary>
+[[知网](https://kns.cnki.net/kcms2/article/abstract?v=ArPsT4H1yBMXo81pNaL5_-QjUtFqfHyK-29SN00q9w1mGOyjR4FpCVPgd-JegIwsgHaxSDPBoQcZvNNi4tD2ope-XzHXi30DMbxHVwF2XZiaON4zSKi1qspPlvpfyoZkTtVmFNR3ZZHEMkNK6VGrunSBTslwcy-lScfbJYahk2w=&uniplatform=NZKPT)]
+</ProjectCard>
+
 <ProjectCard>
   **How well do distributed representations convey contextual lexical semantics: a Thesis Proposal**
 

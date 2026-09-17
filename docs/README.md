@@ -6,9 +6,9 @@ name: Zhu Liu (刘柱)
 profile: /profile.jpg
 
 socials:
-  - title: github
-    icon: "/icons/github.svg"
-    link: https://github.com/RyanLiut
+  # - title: github
+  #   icon: "/icons/github.svg"
+  #   link: https://github.com/RyanLiut
   # - title: linkedin
   #   icon: "/icons/linkedin-mono.svg"
   #   link: https://www.linkedin.com
@@ -16,26 +16,27 @@ socials:
   #   icon: "/icons/instagram-mono.svg"
   #   link: https://www.instagram.com
 
-cv: "/resumes/LZ_CV_EN_20251202.pdf"
-bio: Student at Tsinghua University
-email: liuzhu22 (at) mails (dot) edu (dot) cn
+# cv: "/resumes/LZ_CV_EN_20251202.pdf"
+bio: Lecture at Shanghai University
+email: juniperliuzhu (at) 163 (dot) com
 ---
 
 <ProfileSection :frontmatter="$page.frontmatter" />
 
 ## About Me
 
-I am a Ph.D. candidate in the School of Humanities at Tsinghua University. My major is computational linguistics, combining artificial intelligence and natural languages. I am interested in computational lexical semantics (including polysemy, ambiguity and uncertainty), semantic map models (a methodology in linguistic typology) and interpretability for LLMs.
+I am a Lecture at College of Liberal Arts, Shanghai University. My major is computational linguistics, combining artificial intelligence and natural languages. I am interested in computational lexical semantics (including polysemy, ambiguity and uncertainty), semantic map models (a methodology in linguistic typology) and interpretability for LLMs.
 
 
 ## News
-- [Januray 2026] I just finished my final course of my student career:/ Mixed feelings..
 
-- [January 2026] Two papers in EACL SRW 2026 are reviewed.
+- [August 2026] I have been hired as a Lecture at College of Liberal Arts, Shanghai University.
 
-- [January 2026] I just passed my thesis pre-defense.
+- [July 2026] I attended the second CCF AI for Humanities Conference in Shanghai with a poster presentation on my recent research on semantic map models.
 
-- [December 2025] One [demo paper](https://arxiv.org/pdf/2507.04070) has been submitted to [EACL demo track](https://2026.eacl.org/calls/demos/).
+- [June 2026] I have finished my PhD study at Tsinghua University, whom I will miss forever.
+
+- [May 2026] I serve as Area Chair of ARR May 2026.
 
 <details>
 
@@ -43,6 +44,14 @@ I am a Ph.D. candidate in the School of Humanities at Tsinghua University. My ma
 Past news
 
 </summary>
+
+- [Januray 2026] I just finished my final course of my student career:/ Mixed feelings..
+
+- [January 2026] Two papers in EACL SRW 2026 are reviewed.
+
+- [January 2026] I just passed my thesis pre-defense.
+
+- [December 2025] One [demo paper](https://arxiv.org/pdf/2507.04070) has been submitted to [EACL demo track](https://2026.eacl.org/calls/demos/).
 
 - [May 2025] One revised paper has been submitted into ARR May.
 
@@ -120,11 +129,11 @@ Past news
 
 ## Education
 
-- **Tsinghua University** (PhD Candidate)
+- **Tsinghua University** (PhD)
 
-  Sept 2022 - May 2026 (Expected)
+  Sept 2022 - July 2026
 
-  **Major** Computational Linguistics
+  **Major** Chinese Language and Literature （Computational Linguistics）
 
   **courses**: Formal Semantics (by [Prof. Mingming Liu](https://www.dfll.tsinghua.edu.cn/info/1052/2050.htm), [Reading response](/projects/res_reading.pdf), [Reading response Appendix](/projects/res_appendix.pdf)), A Study on Modern Chinese Grammar (by [Rui Guo](https://chinese.pku.edu.cn/szdw/zzjs/ed0c87af48924a658fe3caa4867bc7c8.htm), auditing), Linguistic typology (by [Rui Guo](https://chinese.pku.edu.cn/szdw/zzjs/ed0c87af48924a658fe3caa4867bc7c8.htm), auditing), Morphology (by [XiuFang Dong](https://chinese.pku.edu.cn/szdw/zzjs/85a8184dfd5b430d898b671a457826c9.htm), auditing), Probability and Random Mathematics (by [Jun Ye](https://www.xyc.tsinghua.edu.cn/info/1107/1806.htm), auditing), Natural Language Processing (by [Yue Zhang](https://frcchang.github.io/), [online](https://www.zhihu.com/education/video-course/1564218549538607104) auditing), Topics in Chinese Morphology and Syntax (by [Dun Deng](https://www.xyc.tsinghua.edu.cn/info/1107/2313.htm), A), Research on Corpus Linguistics (by [Ying Liu](https://www.zhongwen.tsinghua.edu.cn/info/1171/1382.htm), A), Research of Seclected Topics on Chinese Semantics (by [Bing Qiu](https://www.zhongwen.tsinghua.edu.cn/info/1172/1395.htm), A, [Thesis](/projects/汉语词汇专题结题论文.pdf): An Empirical Study on Semantic Relations within Chinese Compound Words based on Word Embeddings)
 
@@ -149,6 +158,8 @@ Past news
 
   9. Pre-defense draft.
 
+  10. [Final version](/projects/LIUZHU_thuthesis_draft_defense_final.pdf) with [defense slides](/projects/刘柱-答辩汇报.pdf).
+
 
 - **Southern University of Science and Technology** (Master)
 
@@ -158,7 +169,7 @@ Past news
 
   **courses**: Advanced Algorithm (A), Bayesian Data Analysis (A), Machine Learning (A)
 
-  **Other interesting courses**: Translation and Appreciation of Chinese Classical Poetry （by Mengwen Zhu, A), Classics and the Process of Canonization (by Mengwen Zhu, auditing)
+  **Other interesting courses**: Translation and Appreciation of Chinese Classical Poetry （by Mengwen Zhu, A）, Classics and the Process of Canonization (by Mengwen Zhu, auditing)
 
   **Thesis**: [Towards Human-like Diverse Video Captioning Via a Latent Generative Model](/projects/sustech_thesis_v1_3_12.pdf)
 
@@ -169,6 +180,8 @@ Past news
   **Major**: Digital Media Techonology
 
 ## Academic Experiences
+- Area Chair of ARR May 2026.
+
 - Exchange Student in [Sapienza NLP](https://nlp.uniroma1.it/), led by Professor [Roberto Navigli](http://www.diag.uniroma1.it/navigli/).
 
   March 2025 - August 2025
@@ -236,6 +249,12 @@ Past news
 
   [[Paper](https://arxiv.org/pdf/2412.01423)] [[CODE](https://github.com/RyanLiut/SemanticMapModel)] [[PPT](/projects/NAACL_2025_489_pre.pdf)] [[Poster](/projects/NAACL_2025_poster.pdf)]
 
+* **基于自上而下图论算法的语义地图自动构建与评估——以“重复义副词”语义地图为例**
+
+  《清华语言学》, 2026, (1)
+
+  [[知网](https://kns.cnki.net/kcms2/article/abstract?v=ArPsT4H1yBMXo81pNaL5_-QjUtFqfHyK-29SN00q9w1mGOyjR4FpCVPgd-JegIwsgHaxSDPBoQcZvNNi4tD2ope-XzHXi30DMbxHVwF2XZiaON4zSKi1qspPlvpfyoZkTtVmFNR3ZZHEMkNK6VGrunSBTslwcy-lScfbJYahk2w=&uniplatform=NZKPT)]
+
 * **Fantastic Semantics and Where to Find Them: Investigating Which Layers of Generative LLMs Reflect Lexical Semantics**
 
   Findings of ACL 2024; CoMeDi workshop in Coling 2025 (non-achival)
@@ -269,9 +288,15 @@ Past news
 
   * **A Top-down Graph-based Tool for Modeling Classical Semantic Maps: A Crosslinguistic Case Study of Supplementary Adverbs**
 
-    At a linguistic seminar, November 30th, 2025. [[PPT in Chinese](/projects/forum-6-pre.pdf)]  [[Paper](/projects/forum-6-paper.pdf)] [[CODE](https://github.com/RyanLiut/SemanticMapModel)]
+    (1) At a linguistic seminar, November 30th, 2025. [[PPT in Chinese](/projects/forum-6-pre.pdf)]  [[Paper](/projects/forum-6-paper.pdf)] [[CODE](https://github.com/RyanLiut/SemanticMapModel)]
+        
+      In this talk, I develop a graph algorithm to construct the semantic map automatically. The tool is available now, and feel free to use it.
 
-    In this talk, I develop a graph algorithm to construct the semantic map automatically. The tool is available now, and feel free to use it.
+    (2) Poster Session at NAACL 2025, [[Poster](/projects/NAACL_2025_poster.pdf)]
+
+    (3) Oral and poster presentation at second CCF AI for Humanities Conference, Shanghai, July 2026. [[PPT](/projects/CCF-AI4H-2026.pdf)] [[Poster](/projects/CCF-AI4H-2026-poster.pdf)] [[Overview Video](/projects/CCF-AI4H-2026-Overview.mov)]
+        
+      In this talk, I extended the semantic map models by evaluating more cases and polishing the demo application.
 
 
 ## Awards and Honors

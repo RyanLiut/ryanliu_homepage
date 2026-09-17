@@ -1,3 +1,5 @@
+const fs = require("fs");
+
 module.exports = {
   title: "Zhu Liu",
   description: "The description of the site.",
@@ -26,6 +28,15 @@ module.exports = {
     anchor: { permalink: false },
     extendMarkdown: md => {
       md.use(require("markdown-it-katex"));
+    }
+  },
+
+  extendPageData($page) {
+    if ($page._filePath) {
+      const mtime = fs.statSync($page._filePath).mtime;
+      $page.lastUpdated = new Date(mtime).toLocaleString(
+        $page._computed.$lang
+      );
     }
   }
 };

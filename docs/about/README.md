@@ -13,22 +13,22 @@ socials:
 - title: zhihu
   link: https://www.zhihu.com/people/antonioliu1
 - title: email
-  link: 'liuzhu22@mails.tsinghua.edu.cn'
+  link: 'juniperliuzhu@163.com'
 actions:
 - text: Publications
   link: /projects/
 - text: Blog
   link: /blog/
 - text: CV
-  link: /resumes/LZ_CV_EN_20251202.pdf
+  link: /resumes/LZ_CV_EN.pdf
 - text: 中文简历
-  link: /resumes/LZ_CV_ZH_20251202.pdf
+  link: /resumes/LZ_CV_ZH.pdf
 footer: Made with ♥ by Fing. Powered by VuePress
 ---
 
 <AboutCard :frontmatter="$page.frontmatter" >
 
-I attended Tsinghua University to pursue my Ph.D., supervised by Ying Liu and cosupervised by Maosong Sun. My research topic is computational linguistics, which combines natural languages and computer science. One epistemic problem I am trying to figure out is "What does the machine know and does not know about **human languages**"? ([Issues](https://faculty.washington.edu/ebender/papers/ACL_2024_Presidential_Address.pdf) as E.M.B. proposed). Also, a bidirectional ball always bouncing in my mind - **AI for linguistics** and **linguistics for AI**.
+I am a Lecturer at College of Liberal Arts, Shanghai University. I finished my Ph.D. journey at Tsinghua University. My research topic is computational linguistics, which combines natural languages and computer science. One epistemic problem I am trying to figure out is "What does the machine (model) know and does not know about **human languages**"? ([Issues](https://faculty.washington.edu/ebender/papers/ACL_2024_Presidential_Address.pdf) as E.M.B. proposed). Also, a bidirectional ball always bouncing in my mind - **AI for linguistics** and **linguistics for AI**.
 
 </AboutCard>
 
