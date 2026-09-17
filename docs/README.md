@@ -17,7 +17,7 @@ socials:
   #   link: https://www.instagram.com
 
 # cv: "/resumes/LZ_CV_EN_20251202.pdf"
-bio: Lecture at Shanghai University
+bio: Lecturer at Shanghai University
 email: juniperliuzhu (at) 163 (dot) com
 ---
 
@@ -25,7 +25,7 @@ email: juniperliuzhu (at) 163 (dot) com
 
 ## About Me
 
-I am a Lecture at College of Liberal Arts, Shanghai University. My major is computational linguistics, combining artificial intelligence and natural languages. I am interested in computational lexical semantics (including polysemy, ambiguity and uncertainty), semantic map models (a methodology in linguistic typology) and interpretability for LLMs.
+I am a Lecturer at College of Liberal Arts, Shanghai University. My major is computational linguistics, combining artificial intelligence and natural languages. I am interested in computational lexical semantics (including polysemy, ambiguity and uncertainty), semantic map models (a methodology in linguistic typology) and interpretability for LLMs.
 
 
 ## News
