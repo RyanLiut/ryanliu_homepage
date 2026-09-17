@@ -30,7 +30,7 @@ I am a Lecturer at College of Liberal Arts, Shanghai University. My major is com
 
 ## News
 
-- [August 2026] I have been hired as a Lecture at College of Liberal Arts, Shanghai University.
+- [August 2026] I have been hired as a Lecturer at College of Liberal Arts, Shanghai University.
 
 - [July 2026] I attended the second CCF AI for Humanities Conference in Shanghai with a poster presentation on my recent research on semantic map models.
 
